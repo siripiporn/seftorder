@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="selfOrder/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1035114736/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1035114736/react-native-svg.iml" group="selfOrder/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selfOrder.iml" filepath="$PROJECT_DIR$/.idea/modules/selfOrder.iml" group="selfOrder" />
+    </modules>
+  </component>
+</project>

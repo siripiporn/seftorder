@@ -1,0 +1,6 @@
+module Pods_selfOrder_selfOrderTests {
+  umbrella header "Pods-selfOrder-selfOrderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
